@@ -11,5 +11,8 @@
 <br>
 [Lighthouse](https://github.com/Ollrins/Lighthouse-role.git "Ссылка на GitHub")
 <br>
-
+<br>
+<p>
 Можно ли использовать alexeysetevoi.clickhouse для Rocky Linux 9?
+  </p>
+
