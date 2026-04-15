@@ -13,7 +13,7 @@
 <br>
 <br>
 <p>
-Можно ли использовать alexeysetevoi.clickhouse для Rocky Linux 9? У меня не получилось.
+Подскажите, пожалуйста, можно ли использовать alexeysetevoi.clickhouse для Rocky Linux 9? У меня не получилось. Буду благодарна за ответ.
 </p>
   <p align="center">
   <img src="scrshts/S1.png"/>
