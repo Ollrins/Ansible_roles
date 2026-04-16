@@ -1,0 +1,20 @@
+all:
+  children:
+    clickhouse:
+      hosts:
+        clickhouse-01:
+          ansible_host: 111.88.255.153
+          ansible_user: ubuntu 
+          ansible_ssh_private_key_file: /home/Ollrins/key
+    vector:
+      hosts:
+        vector-01:
+          ansible_host: 111.88.255.72
+          ansible_user: rocky
+          ansible_ssh_private_key_file: /home/Ollrins/key
+    lighthouse:
+      hosts:
+        lighthouse-01:
+          ansible_host: 111.88.255.3
+          ansible_user: rocky
+          ansible_ssh_private_key_file: /home/Ollrins/key
