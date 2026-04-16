@@ -4,7 +4,7 @@
 Второй вариант с одной Ubuntu для alexeysetevoi.clickhouse и двумя Rocky.
 </p>
 <br>
-[Ubuntu_Rocky_ClickHouse]([https://github.com/Ollrins/ClickHouse-role.git](https://github.com/Ollrins/Ansible_roles/tree/main/Ubuntu_Rocky.git) "Ссылка на GitHub")
+[Ubuntu_Rocky_ClickHouse](https://github.com/Ollrins/Ansible_roles/tree/main/Ubuntu_Rocky.git) "Ссылка на GitHub")
 <br>
 
 
